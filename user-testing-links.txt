@@ -1,0 +1,7 @@
+#This file is for manual user testing only.
+#The app does not read or interact with this file.
+
+
+google.com
+https://malware.wicar.org/data/eicar.com
+http://example.com
